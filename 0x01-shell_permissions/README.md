@@ -1,1 +1,2 @@
 Multiple permissions
+-rwxr-xr--
