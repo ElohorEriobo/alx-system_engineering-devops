@@ -1,2 +1,2 @@
-#!/bin/basl
+#!/bin/bash
 chown :school hello
