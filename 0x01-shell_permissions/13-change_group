@@ -1,0 +1,2 @@
+#!/bin/basl
+chown :school hello
