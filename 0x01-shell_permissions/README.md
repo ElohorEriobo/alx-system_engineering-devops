@@ -1,2 +1,1 @@
-Multiple permissions
--rwxr-xr--
+everybody
