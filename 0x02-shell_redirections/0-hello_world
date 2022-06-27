@@ -1,0 +1,2 @@
+echo -e "iHello, World"
+$ wc -l file
